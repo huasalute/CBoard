@@ -1,4 +1,4 @@
-FROM centos:6.9
+FROM centos:6.8
 
 WORKDIR /root
 
